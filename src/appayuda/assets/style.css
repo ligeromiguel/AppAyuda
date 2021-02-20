@@ -1,0 +1,83 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+@font-face {
+  font-family: Roboto;
+  src: url(Roboto-Thin.ttf);
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13pt;
+    font-weight: bold;
+    background-color: #efefef;
+    padding: 100px;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 25pt;
+    color: #1889BB;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+
+
+h2 {
+    font-size: 15pt;
+    color: #FF5733;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+
+h3 {
+    font-size: 17pt;
+    color: #FF5733;
+    text-align: center;
+    text-decoration: underline;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+
+h5 {
+    font-size: 15pt;
+    color: #FF5733 ;
+    text-align: left;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+
+h6 {
+    font-size: 12pt;
+    font-weight: bold;
+    text-align: left;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+summary {
+    font-weight: bold;
+}
+hr {
+    border: 0;
+    height: 1px;
+    background: #f36f48;
+}
+.aligncenter {
+    text-align: center;
+}
